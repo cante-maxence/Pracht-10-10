@@ -1,0 +1,22 @@
+[
+  {
+    "favori": false,
+    "prix": 1500,
+    "nomMaison": "Autre Maison",
+    "image": "/images-maisons/Faulkner-Ave.png",
+    "nbrChambres": 2,
+    "nbrSDB": 1,
+    "surface": "4x5m²",
+    "adresse": "2821 Lake Sevilla, Palm Habor, TX"
+  },
+  {
+    "favori": true,
+    "prix": 3000,
+    "nomMaison": "Beverly Springfield",
+    "image": "/images-maisons/Beverly-Springfield.jpg",
+    "nbrChambres": 3,
+    "nbrSDB": 2,
+    "surface": "4x5m²",
+    "adresse": "2821 Lake Sevilla, Palm Habor, TX"
+  }
+]
